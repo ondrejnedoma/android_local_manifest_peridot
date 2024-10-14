@@ -1,0 +1,9 @@
+<manifest>
+    
+    <project name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="fourteen" />
+
+    <project name="PixelOS-Devices/device_xiaomi_peridot-kernel" path="device/xiaomi/peridot-kernel" remote="github" revision="fourteen" />
+    <project name="PixelOS-Devices/android_device_xiaomi_peridot" path="device/xiaomi/peridot" remote="github" revision="fourteen" />
+    <project name="PixelOS-Devices/vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="github" revision="fourteen" />
+
+</manifest>
