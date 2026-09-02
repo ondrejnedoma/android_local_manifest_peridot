@@ -1,0 +1,23 @@
+<manifest>
+
+    <project name="khargosxh18/android_hardware_xiaomi" path="hardware/xiaomi" remote="github"
+        revision="lineage-23.2" />
+    <project name="loonage/android_packages_apps_XiaomiDolby" path="packages/apps/XiaomiDolby"
+        remote="github" revision="lineage-23.2" />
+    <project name="khargosxh18/device_xiaomi_peridot-miuicamera"
+        path="device/xiaomi/peridot-miuicamera" remote="github" revision="lineage-23.2" />
+    <project name="NoPrincessHere/proprietary_vendor_xiaomi_peridot-miuicamera"
+        path="vendor/xiaomi/peridot-miuicamera" remote="gitlab" revision="sixteen-qpr2" />
+
+    <project name="khargosxh18/android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635"
+        remote="github" revision="17" />
+    <project name="khargosxh18/android_kernel_xiaomi_sm8635-modules"
+        path="kernel/xiaomi/sm8635-modules" remote="github" revision="lineage-23.2" />
+    <project name="khargosxh18/android_kernel_xiaomi_sm8635-devicetrees"
+        path="kernel/xiaomi/sm8635-devicetrees" remote="github" revision="lineage-23.2" />
+    <project name="ondrejnedoma/android_device_xiaomi_peridot" path="device/xiaomi/peridot"
+        remote="github" revision="17" />
+    <project name="khargosxh18/proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot"
+        remote="github" revision="main" />
+
+</manifest>
